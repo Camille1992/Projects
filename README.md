@@ -16,7 +16,7 @@ Perform an end-to-end analysis putting into practice what you have learned so fa
 **Data**: https://www.kaggle.com/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv
 
 
-## 2. BANK - CREDIT CARD OFFER RISK ANALYSIS - CLASSIFICATION
+## 2. Bank - Credit Card Offer - Risk Analysis - Classification
 
 ### Background 
 You are working as a risk analyst with a bank. Apart from the other banking and loan services, the bank also provides credit card services which is a very important source of revenue for the bank. The bank wants to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card.
