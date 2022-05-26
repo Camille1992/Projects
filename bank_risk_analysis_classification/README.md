@@ -1,4 +1,4 @@
-# README - BANKING SECTOR - CREDIT CARD OFFER - CLASSIFICATION
+# Banking Sector - Credit Card Offer
 
 ## 1. Project description
 We want to understand our customers better and explore the demographic characteristics that would impact their decision to accept or not a credit card offer.
